@@ -58,8 +58,6 @@ Smart Contract based Supply Chain Management for Data Integrity and Anti-Tamperi
 - setup IOT part whose description is above ⬆️
 - Thats it 😎🚀
 
-# SCREENSHOTS
-
 <p>HOME PAGE </p>
 
 ![](Screenshots/Home.png)
